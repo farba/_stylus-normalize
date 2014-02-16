@@ -3,5 +3,11 @@ stylus-normalize
 
 normalize.css Stylus mixin
 
-### Usage
+### Standalone Usage
 `@import 'normalize'`
+
+### NPM Usage
+```
+npm install stylus-normalize
+stylus -u stylus-normalize -w
+```
