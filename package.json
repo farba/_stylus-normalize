@@ -1,0 +1,20 @@
+{
+  "name": "stylus-normalize",
+  "author": "Cory Simmons / MojoTech",
+  "main": "stylus-normalize.js",
+  "version": "3.0.0",
+  "description": "Stylus importable normalize",
+  "keywords": [
+    "CSS",
+    "reset",
+    "normalize",
+    "Stylus"
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/corysimmons/stylus-normalize.git"
+    }
+  ],
+  "github": "https://github.com/corysimmons/stylus-normalize"
+}
