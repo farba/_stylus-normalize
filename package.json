@@ -2,7 +2,7 @@
   "name": "stylus-normalize",
   "author": "Cory Simmons",
   "main": "stylus-normalize.js",
-  "version": "3.0.2.1",
+  "version": "3.0.2",
   "description": "Stylus importable normalize",
   "keywords": [
     "CSS",
