@@ -1,6 +1,6 @@
 {
   "name": "stylus-normalize",
-  "author": "Cory Simmons / MojoTech",
+  "author": "Cory Simmons",
   "main": "stylus-normalize.js",
   "version": "3.0.0",
   "description": "Stylus importable normalize",
